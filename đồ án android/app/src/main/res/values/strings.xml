@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DoAnQuanLyGarage</string>
+    <string name="logintc">Xin chào</string>
+    <string name="loginktc">Tài khoản hoặc mật khẩu sai</string>
+
+    <string name="Hang">Hãng</string>
+    <string name="add_succes">Thêm thành công</string>
+    <string name="add_fail">Thêm thất bại</string>
+    <string name="delete_succes">Xóa thành công</string>
+    <string name="delete_fail">Xóa thất bại</string>
+    <string name="update_succes">Sửa thành công</string>
+    <string name="update_fail">Sửa không thành công</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYW52aW5obHVvbmciLCJhIjoiY2w5bTcwcjJpMmM4djNwbW5waWZpYWRmdCJ9.9D7BI7KYGE9zqlxw8KcLUw</string>
+    <string name="call">Gọi</string>
+    <string name="tvdshx">DANH SÁCH HÃNG XE</string>
+    <string name="tvdsxe">DANH SÁCH XE</string>
+    <string name="TvDANHNHAP">ĐĂNG NHẬP</string>
+    <string name="txttk">Tài khoản</string>
+    <string name="txtmk">Mật khẩu</string>
+    <string name="btndn">ĐĂNG NHẬP</string>
+    <string name="btnthoat">THOÁT</string>
+    <string name="tvmenu">DANH MỤC</string>
+    <string name="btndsxe">Danh Sách Xe</string>
+    <string name="btnhxe">Hãng Xe</string>
+    <string name="tvthemdsxe">THÊM DANH SÁCH XE</string>
+    <string name="txtten">TÊN XE</string>
+    <string name="txtqgia">QUỐC GIA</string>
+    <string name="txtcho">SỐ CHỔ</string>
+    <string name="spnhang">HÃNG</string>
+    <string name="txtmau">MÀU</string>
+    <string name="btnchonhinh">CHỌN HÌNH</string>
+    <string name="btnthem">Thêm Vào Danh Sách Xe</string>
+    <string name="btnback">Quay Lại</string>
+    <string name="tvthemhx">THÊM HÃNG XE</string>
+    <string name="txttenhang">TÊN HÃNG XE</string>
+    <string name="btnthemhang">Thểm Vào Hãng Xe</string>
+    <string name="tvthongtin">Thông Tin</string>
+    <string name="exit">Thoát</string>
+    <string name="sua">Sửa</string>
+
+
+</resources>

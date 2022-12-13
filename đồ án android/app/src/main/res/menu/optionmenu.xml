@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/menu">
+        <menu>
+            <item
+                android:id="@+id/btnAbout"
+                android:title="@string/tvthongtin"
+                android:icon="@drawable/about"/>
+            <item
+                android:id="@+id/btnBack"
+                android:title="@string/btnback"
+                android:icon="@drawable/back"/>
+            <item
+                android:id="@+id/btnExit"
+                android:icon="@drawable/exit"
+                android:title="@string/exit" />
+
+        </menu>
+    </item>
+</menu>

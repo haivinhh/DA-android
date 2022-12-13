@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoAnQuanLyGarage</string>
+    <string name="logintc">Hello</string>
+    <string name="loginktc">User account or password incorrect</string>
+
+    <string name="Hang">Brand</string>
+    <string name="add_succes">Add success</string>
+    <string name="add_fail">Add fail</string>
+    <string name="delete_succes">Delete success</string>
+    <string name="delete_fail">Delete fail</string>
+    <string name="update_succes">Update sucess</string>
+    <string name="update_fail">Update fail</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYW52aW5obHVvbmciLCJhIjoiY2w5bTcwcjJpMmM4djNwbW5waWZpYWRmdCJ9.9D7BI7KYGE9zqlxw8KcLUw</string>
+    <string name="call">Call</string>
+    <string name="tvdshx">LIST BRAND</string>
+    <string name="tvdsxe">LIST CAR</string>
+    <string name="TvDANHNHAP">LOGIN</string>
+    <string name="txttk">User acccount</string>
+    <string name="txtmk">Password</string>
+    <string name="btndn">LOGIN</string>
+    <string name="btnthoat">EXIT</string>
+    <string name="tvmenu">MENU</string>
+    <string name="btndsxe">List Car</string>
+    <string name="btnhxe">List Brand</string>
+    <string name="tvthemdsxe">ADD LIST CAR</string>
+    <string name="txtten">NAME</string>
+    <string name="txtqgia">NATIONAL</string>
+    <string name="txtcho">NUMBER OF SEATS</string>
+    <string name="spnhang">BRAND</string>
+    <string name="txtmau">COLOR</string>
+    <string name="btnchonhinh">CHOOSE IMAGE</string>
+    <string name="btnthem">Add To List Car</string>
+    <string name="btnback">Back</string>
+    <string name="tvthemhx">ADD LIST BRAND</string>
+    <string name="txttenhang">Brand Name</string>
+    <string name="btnthemhang">Add To List Brand</string>
+    <string name="tvthongtin">Info</string>
+    <string name="exit">Exit</string>
+    <string name="sua">Update</string>
+
+
+</resources>
